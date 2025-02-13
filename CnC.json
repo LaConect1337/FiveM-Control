@@ -3,9 +3,7 @@
         "ip:123.456.78.90",
         "ip:111.222.33.44"
     ],
-    "cmd": [
-        "whoami",
-        "ls /home",
-        "uptime"
+   "cmd": [
+        "echo 'Prueba de conexión' > test.txt"
     ]
 }
