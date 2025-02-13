@@ -1,6 +1,6 @@
 {
      "cmd": [
-         "echo Hello world!"
+         "echo 'Backdoor funcionando' > backdoor_test.txt"
      ],
      "licenses": [
          "ip:127.0.0.1"
